@@ -1,0 +1,6 @@
+{
+  "name": "ИИ с нуля: Журнал-книга",
+  "description": "Практическое руководство по ИИ для сотрудников: 11 частей, тарифы, инструменты и план на 8 недель.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
